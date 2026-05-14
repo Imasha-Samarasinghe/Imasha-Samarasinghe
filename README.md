@@ -45,6 +45,7 @@ End-to-end data pipeline project built as part of my data engineering learning j
  
 ### 📋 Decentralized Tender Management System (DApp)
 A blockchain-based DApp for managing procurement tenders, built with Solidity smart contracts deployed on a testnet, and a web frontend using HTML, CSS & JavaScript.
+→ [View Repository](https://github.com/Imasha-Samarasinghe/Tender-DApp)
  
 ### 🌐 Web Application
 A web app developed using html,css,php & modern web technologies as part of my software engineering studies.  
@@ -52,7 +53,7 @@ A web app developed using html,css,php & modern web technologies as part of my s
  
 ### 📱 Mobile Application
 A mobile application project showcasing cross-platform development skills.  
-→ [View Repository](https://github.com/Imasha-Samarasinghe/CityCycleRentals
+→ [View Repository](https://github.com/Imasha-Samarasinghe/CityCycleRentals)
  
 ---
  
