@@ -42,6 +42,10 @@ Tools & Platforms
 ### 🔄 Data Pipeline / ETL
 End-to-end data pipeline project built as part of my data engineering learning journey — covers ingestion, transformation, and loading into a target data store.  
 → [View Repository](https://github.com/Imasha-Samarasinghe/weather-pipeline)
+
+### 🏏 IPL Analytics Warehouse
+An end-to-end cricket analytics warehouse built using Python, PostgreSQL, dbt, Docker, and Streamlit. The project ingests raw IPL ball-by-ball data from Cricsheet, transforms it into layered analytical models using dbt, and visualizes insights through an interactive dashboard.
+→ [View Repository](https://github.com/Imasha-Samarasinghe/ipl-analytics-warehouse)
  
 ### 📋 Decentralized Tender Management System (DApp)
 A blockchain-based DApp for managing procurement tenders, built with Solidity smart contracts deployed on a testnet, and a web frontend using HTML, CSS & JavaScript.
