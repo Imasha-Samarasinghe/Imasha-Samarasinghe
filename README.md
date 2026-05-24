@@ -39,7 +39,8 @@ Tools & Platforms
  
 ## 💼 Projects
 
-### 🔄 Data Pipeline / ETL
+### ✈️ Live Flight Tracker
+A real-time data engineering pipeline that streams live global aircraft positions, processes them through Apache Kafka, stores to AWS cloud infrastructure, and visualises everything on a live auto-refreshing dashboard.
 → [View Repository](https://github.com/Imasha-Samarasinghe/flight-tracker)
 
 ### 🔄 Data Pipeline / ETL
