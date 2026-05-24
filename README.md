@@ -38,7 +38,10 @@ Tools & Platforms
 ---
  
 ## 💼 Projects
- 
+
+### 🔄 Data Pipeline / ETL
+→ [View Repository](https://github.com/Imasha-Samarasinghe/flight-tracker)
+
 ### 🔄 Data Pipeline / ETL
 End-to-end data pipeline project built as part of my data engineering learning journey — covers ingestion, transformation, and loading into a target data store.  
 → [View Repository](https://github.com/Imasha-Samarasinghe/weather-pipeline)
