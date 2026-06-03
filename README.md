@@ -44,7 +44,7 @@ A real-time data engineering pipeline that streams live global aircraft position
 
 → [View Repository](https://github.com/Imasha-Samarasinghe/flight-tracker)
 
-### 🔄 Data Pipeline / ETL
+### 🔄 Weather Pipeline 
 End-to-end data pipeline project built as part of my data engineering learning journey — covers ingestion, transformation, and loading into a target data store.  
 → [View Repository](https://github.com/Imasha-Samarasinghe/weather-pipeline)
 
