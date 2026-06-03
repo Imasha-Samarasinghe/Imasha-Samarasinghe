@@ -2,7 +2,6 @@
  
 🎓 Higher Diploma in Computing & Software Engineering — Cardiff Metropolitan University, UK  
 📚 Top-Up Degree in Data Science — Cardiff Metropolitan University, UK (Reading)
-
 🚀 Aspiring Data Engineer — passionate about building pipelines, cloud platforms & turning raw data into value  
 🌍 Based in Sri Lanka · Open to internships locally & remotely
  
