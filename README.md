@@ -52,6 +52,12 @@ End-to-end data pipeline project built as part of my data engineering learning j
 An end-to-end cricket analytics warehouse built using Python, PostgreSQL, dbt, Docker, and Streamlit. The project ingests raw IPL ball-by-ball data from Cricsheet, transforms it into layered analytical models using dbt, and visualizes insights through an interactive dashboard.
 
 → [View Repository](https://github.com/Imasha-Samarasinghe/ipl-analytics-warehouse)
+
+### 🔥 Open Source Pulse
+
+An end-to-end data engineering pipeline that ingests and analyses real GitHub activity data using AWS, PySpark, Snowflake, dbt, and Streamlit. The project processes millions of GitHub events from GH Archive and transforms them into interactive analytics dashboards for repository trends, language activity, and AI-related projects.
+
+→ [View Repository](https://github.com/Imasha-Samarasinghe/open-source-pulse)
  
 ### 📋 Decentralized Tender Management System (DApp)
 A blockchain-based DApp for managing procurement tenders, built with Solidity smart contracts deployed on a testnet, and a web frontend using HTML, CSS & JavaScript.
