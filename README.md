@@ -1,4 +1,4 @@
-# Hi, I'm Imasha Samarasinghe 👋
+# Hi, I'm Imasha Samarasinghe 
  
 🎓 Higher Diploma in Computing & Software Engineering — Cardiff Metropolitan University, UK  
 📚 Top-Up Degree in Data Science — Cardiff Metropolitan University, UK (Reading)  
