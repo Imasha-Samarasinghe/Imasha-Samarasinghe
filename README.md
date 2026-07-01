@@ -44,9 +44,11 @@ A real-time data engineering pipeline that streams live global aircraft position
 
 → [View Repository](https://github.com/Imasha-Samarasinghe/flight-tracker)
 
-### 🔄 Weather Pipeline 
-End-to-end data pipeline project built as part of my data engineering learning journey — covers ingestion, transformation, and loading into a target data store.  
-→ [View Repository](https://github.com/Imasha-Samarasinghe/weather-pipeline)
+### 🏠 Airbnb Market Intelligence System 
+A production-grade data engineering pipeline and analytics platform comparing Bangkok and Lisbon Airbnb markets. Built for the Expernetic Data Engineer Intern technical assessment — covers ingestion, profiling, cleaning, enrichment, an 8-table star schema in PostgreSQL, statistical hypothesis testing, and an interactive Streamlit dashboard.
+
+→ [View Repository](https://github.com/Imasha-Samarasinghe/Airbnb-Market-Analytics-System)
+
 
 ### 🏏 IPL Analytics Warehouse
 An end-to-end cricket analytics warehouse built using Python, PostgreSQL, dbt, Docker, and Streamlit. The project ingests raw IPL ball-by-ball data from Cricsheet, transforms it into layered analytical models using dbt, and visualizes insights through an interactive dashboard.
@@ -54,11 +56,14 @@ An end-to-end cricket analytics warehouse built using Python, PostgreSQL, dbt, D
 → [View Repository](https://github.com/Imasha-Samarasinghe/ipl-analytics-warehouse)
 
 ### 🔥 Open Source Pulse
-
 An end-to-end data engineering pipeline that ingests and analyses real GitHub activity data using AWS, PySpark, Snowflake, dbt, and Streamlit. The project processes millions of GitHub events from GH Archive and transforms them into interactive analytics dashboards for repository trends, language activity, and AI-related projects.
 
 → [View Repository](https://github.com/Imasha-Samarasinghe/open-source-pulse)
- 
+
+### 🔄 Weather Pipeline
+End-to-end data pipeline project built as part of my data engineering learning journey — covers ingestion, transformation, and loading into a target data store.  
+→ [View Repository](https://github.com/Imasha-Samarasinghe/weather-pipeline)
+
 ### 📋 Decentralized Tender Management System (DApp)
 A blockchain-based DApp for managing procurement tenders, built with Solidity smart contracts deployed on a testnet, and a web frontend using HTML, CSS & JavaScript.
 
