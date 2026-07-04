@@ -13,12 +13,12 @@
 🚀 Aspiring Data Engineer — passionate about building pipelines, cloud platforms & turning raw data into value  
 🌍 Based in Sri Lanka · Open to internships locally & remotely
 
-[</td>
+</td>
 <td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="100%"/>
 </td>
 </tr>
-</table>](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
+</table>
 
 ---
 
