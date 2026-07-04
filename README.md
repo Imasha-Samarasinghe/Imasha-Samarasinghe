@@ -1,13 +1,12 @@
 <div align="center">
-
 <!-- Typing intro animation -->
-[<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Imasha+Samarasinghe;Aspiring+Data+Engineer;_Data+Science+Undergrad+%40+Cardiff+Met;_Building+pipelines+that+don't+break+%F0%9F%9A%80" alt="Typing SVG" />](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Imasha+Samarasinghe;Aspiring+Data+Engineer;Data+Science+Undergrad+%40+Cardiff+Met;Building+pipelines+that+don't+break+%F0%9F%9A%80)
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Imasha+Samarasinghe;Aspiring+Data+Engineer;Data+Science+Undergrad+%40+Cardiff+Met;Building+pipelines+that+don't+break+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
 <table>
 <tr>
 <td width="60%">
+
+
 
 🎓 Higher Diploma in Computing & Software Engineering — Cardiff Metropolitan University, UK  
 📚 Top-Up Degree in Data Science — Cardiff Metropolitan University, UK (Reading)  
