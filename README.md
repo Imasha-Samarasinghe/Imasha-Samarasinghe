@@ -112,13 +112,16 @@ A mobile application project showcasing cross-platform development skills.
 ---
  
 ## 📊 GitHub Stats
- 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imasha-Samarasinghe&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imasha-Samarasinghe&theme=default&hide_border=true" height="160" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imasha-Samarasinghe&layout=compact&theme=default&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Imasha-Samarasinghe%2FImasha-Samarasinghe&label=Profile%20Views&countColor=%236C63FF&style=flat" />
 </p>
 
  
