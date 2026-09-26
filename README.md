@@ -82,6 +82,11 @@ An end-to-end data engineering pipeline that ingests and analyses real GitHub ac
 
 → [View Repository](https://github.com/Imasha-Samarasinghe/open-source-pulse)
 
+### 📦 Retail Sales ETL Pipeline
+A production-grade ETL pipeline processing 1M+ real-world e-commerce transactions from the UCI Online Retail II dataset into a normalized PostgreSQL warehouse. Covers data cleaning and validation with a full reject-log audit trail, a 4-table relational schema with idempotent bulk loading, AWS S3 integration for raw/processed data storage, and query performance benchmarking with EXPLAIN ANALYZE — including a materialized view built specifically to solve a query indexing couldn't fix.
+
+→ [View Repository](https://github.com/Imasha-Samarasinghe/retail-etl)
+
 ### 🔄 Weather Pipeline
 End-to-end data pipeline project built as part of my data engineering learning journey — covers ingestion, transformation, and loading into a target data store.  
 → [View Repository](https://github.com/Imasha-Samarasinghe/weather-pipeline)
